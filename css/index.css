@@ -1,0 +1,26 @@
+/*
+    @规则
+        @charset 设置样式表编码
+        @import 导入其他样式文件
+        @meida 媒体查询 主要查询设备
+        @font-face 自定义字体
+*/
+@import 'reset.css';
+
+@font-face {
+    font-family: 'iconfont';
+    src: url('../font/iconfont.eot');
+    src: url('../font/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('../font/iconfont.woff2') format('woff2'),
+        url('../font/iconfont.woff') format('woff'),
+        url('../font/iconfont.ttf') format('truetype'),
+        url('../font/iconfont.svg#iconfont') format('svg');
+  }
+
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }

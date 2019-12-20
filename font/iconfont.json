@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2849",
+      "name": "淘公仔",
+      "font_class": "taogongzi",
+      "unicode": "35ba",
+      "unicode_decimal": 13754
+    },
+    {
+      "icon_id": "15369",
+      "name": "右三角形",
+      "font_class": "yousanjiaoxing",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "301853",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "714438",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "974852",
+      "name": "拍照",
+      "font_class": "paizhao",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "1110411",
+      "name": "下箭头",
+      "font_class": "jiantou9",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "3588490",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "6204091",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6364167",
+      "name": "二维码",
+      "font_class": "ico",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "8159857",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "10809884",
+      "name": "向左 箭头",
+      "font_class": "changyongtubiao-xianxingdaochu-zhuanqu-",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "10809885",
+      "name": "向右 箭头",
+      "font_class": "changyongtubiao-xianxingdaochu-zhuanqu-1",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "11895884",
+      "name": "引号",
+      "font_class": "quotation",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "12184892",
+      "name": "笑脸",
+      "font_class": "xiaolian",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    }
+  ]
+}
